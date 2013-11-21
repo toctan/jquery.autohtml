@@ -1,0 +1,31 @@
+{
+  "name": "jquery.autohtml",
+  "version": "0.0.0",
+  "description": "A jQuery plugin to transform plain URLs to appropriate resources, such as image, YouTube, Vimeo video, gist, tweet...",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --compilers coffee:coffee-script"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/toctan/jquery.autohtml.git"
+  },
+  "keywords": [
+    "jquery",
+    "YouTube",
+    "gist",
+    "twitter",
+    "Vimeo",
+    "autolink",
+    "youku"
+  ],
+  "author": "Jin Tian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toctan/jquery.autohtml/issues"
+  },
+  "homepage": "https://github.com/toctan/jquery.autohtml",
+  "dependencies": {
+    "jquery": "~1.8.3"
+  }
+}
